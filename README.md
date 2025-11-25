@@ -200,7 +200,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Team Mytho - [@teammytho](https://twitter.com/teammytho)
 
-Project Link: [https://github.com/yourusername/city-pulse-helsinki](https://github.com/yourusername/city-pulse-helsinki)
+Live Project Link: https://urbancircularhackathon.vercel.app/
 
 ---
 
