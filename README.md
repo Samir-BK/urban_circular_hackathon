@@ -198,8 +198,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Team Mytho - [@teammytho](https://twitter.com/teammytho)
-
 Live Project Link: https://urbancircularhackathon.vercel.app/
 
 ---
